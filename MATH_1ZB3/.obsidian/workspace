@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/8.3 - Hydrostatic Pressure and Force.md",
+            "file": "notes/9.1 - Modeling With Differential Equations.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/8.3 - Hydrostatic Pressure and Force.md",
+                "file": "notes/9.1 - Modeling With Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "8e6fc37c4ac2e166",
   "lastOpenFiles": [
+    "notes/9.1 - Modeling With Differential Equations.md",
     "notes/8.3 - Hydrostatic Pressure and Force.md",
     "notes/11.10 - Taylor and Mclaurin Series.md",
     "practice/9.5.md",
@@ -97,7 +98,6 @@
     "practice/9-1.md",
     "notes/10.3 - Polar Coordinates.md",
     "notes/10.2 - Calculus with Parametric Curves.md",
-    "notes/3.8 - Exponential Growth And Decay.md",
-    "notes/11.9 - Representations of Functions as Power Series.md"
+    "notes/3.8 - Exponential Growth And Decay.md"
   ]
 }
