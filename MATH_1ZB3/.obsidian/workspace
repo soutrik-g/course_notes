@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "70c0eb6acf0ea32f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e6fc37c4ac2e166",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/8.3 - Hydrostatic Pressure and Force.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9ae10eff4f20f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "8736abe056528ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeab9790c68a4857",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84c62492c7887fe2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "3656b886984a0367",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab98549a3bf8da0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993cf7971f5aac02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/8.3 - Hydrostatic Pressure and Force.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e6fc37c4ac2e166",
+  "lastOpenFiles": [
+    "notes/8.3 - Hydrostatic Pressure and Force.md",
+    "notes/11.10 - Taylor and Mclaurin Series.md",
+    "practice/9.5.md",
+    "notes/9.3 - Separable Equations.md",
+    "practice/9-3.md",
+    "practice/9-1.md",
+    "notes/10.3 - Polar Coordinates.md",
+    "notes/10.2 - Calculus with Parametric Curves.md",
+    "notes/3.8 - Exponential Growth And Decay.md",
+    "notes/11.9 - Representations of Functions as Power Series.md"
+  ]
+}
