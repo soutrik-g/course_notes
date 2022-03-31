@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "c05b72f433583527",
+        "id": "18c192660fe13ec0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/6.5 - Congruence Classes.md",
+            "file": "notes/8.1 - Finite and Infinite Sets.md",
             "mode": "source",
             "source": false
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/6.5 - Congruence Classes.md",
+                "file": "notes/8.1 - Finite and Infinite Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c05b72f433583527",
+  "active": "18c192660fe13ec0",
   "lastOpenFiles": [
+    "notes/8.1 - Finite and Infinite Sets.md",
+    "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf",
+    "notes/5.3 - One-to-One and Onto Functions.md",
+    "resources/schedule.md",
+    "table_of_contents.md",
     "notes/6.5 - Congruence Classes.md",
     "notes/6.4 - Congruences.md",
-    "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf",
     "problems/Homework 5/Math_1C03___Assignment_4__2022 (2).pdf",
     "problems/Homework 5/Exercise 6.1.2.md",
-    "problems/Homework 5/Exercise 5.5.11.md",
-    "problems/Homework 5/Exercise 5.4.1.md",
-    "resources/MATH-1C03-Course_Outline_Winter2022.pdf",
-    "problems/Homework 4/Exercise 5.1.7.md",
-    "notes/6.3 - Relatively Prime Integers and the Fundamental Theorem of Arithmetic.md"
+    "problems/Homework 5/Exercise 5.5.11.md"
   ]
 }

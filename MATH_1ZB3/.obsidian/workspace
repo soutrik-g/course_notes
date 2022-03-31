@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/9.1 - Modeling With Differential Equations.md",
+            "file": "notes/11.6 - The Ratio & Root Test.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/9.1 - Modeling With Differential Equations.md",
+                "file": "notes/11.6 - The Ratio & Root Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "8e6fc37c4ac2e166",
   "lastOpenFiles": [
+    "notes/11.6 - The Ratio & Root Test.md",
+    "notes/11.10 - Taylor and Mclaurin Series.md",
+    "notes/9.5 - Linear Equations.md",
+    "notes/9.3 - Separable Equations.md",
     "notes/9.1 - Modeling With Differential Equations.md",
     "notes/8.3 - Hydrostatic Pressure and Force.md",
-    "notes/11.10 - Taylor and Mclaurin Series.md",
     "practice/9.5.md",
-    "notes/9.3 - Separable Equations.md",
     "practice/9-3.md",
     "practice/9-1.md",
-    "notes/10.3 - Polar Coordinates.md",
-    "notes/10.2 - Calculus with Parametric Curves.md",
-    "notes/3.8 - Exponential Growth And Decay.md"
+    "notes/10.3 - Polar Coordinates.md"
   ]
 }
