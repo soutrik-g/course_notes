@@ -14,5 +14,6 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "autoPairBrackets": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "spellcheck": true
 }
