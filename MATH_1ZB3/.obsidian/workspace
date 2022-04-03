@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7c3d9185ff2cef7d",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf"
-          }
-        }
-      },
-      {
         "id": "f5bdd523c50d98da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/14 - Partial Derivatives/14.4 - Tangent Planes and Linear Approximations.md",
-            "mode": "source",
-            "source": false
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -63,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "3656b886984a0367",
@@ -101,14 +90,14 @@
   "active": "f5bdd523c50d98da",
   "lastOpenFiles": [
     "notes/14 - Partial Derivatives/14.4 - Tangent Planes and Linear Approximations.md",
+    "practice/14.2.md",
+    "practice/Schedule & Questions.md",
+    "practice/14.3.md",
     "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf",
+    "pdfs/Math 1AA31ZB3 – Calculus W2022.pdf",
     "notes/14 - Partial Derivatives/14.3 - Partial Derivatives.md",
     "notes/11 - Sequences, Series, and Power Series/Pick a Test.md",
     "notes/11 - Sequences, Series, and Power Series/11.3 - Integral Test.md",
-    "notes/10 - Parametric Equations and Polar Coordinates/10.1 - Parametric Equations.md",
-    "notes/9 - Differential Equations/9.3 - Separable Equations.md",
-    "notes/Untitled.md",
-    "notes/8 - Further Applications of Integration/8.2 - Area of a Surface of Revolution.md",
-    "notes/3 - Differential Rules/3.8 - Exponential Growth And Decay.md"
+    "notes/10 - Parametric Equations and Polar Coordinates/10.1 - Parametric Equations.md"
   ]
 }
