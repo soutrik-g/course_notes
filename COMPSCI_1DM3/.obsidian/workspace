@@ -9,21 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/10 - Graphs/10.2 - Graph Terminology and Special Kinds of Graphs.md",
+            "file": "notes/10 - Graphs/10.3 - Representing Graphs and Graph Isomorphism.md",
             "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "fb4f0cfed0da21ed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/10 - Graphs/10.2 - Graph Terminology and Special Kinds of Graphs.md",
-            "mode": "preview",
-            "source": true
+            "source": false
           }
         }
       }
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10f66a4e08649c0f",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10 - Graphs/10.2 - Graph Terminology and Special Kinds of Graphs.md",
+                "file": "notes/10 - Graphs/10.3 - Representing Graphs and Graph Isomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +90,7 @@
   },
   "active": "105d2458fe038770",
   "lastOpenFiles": [
+    "notes/10 - Graphs/10.3 - Representing Graphs and Graph Isomorphism.md",
     "notes/10 - Graphs/10.2 - Graph Terminology and Special Kinds of Graphs.md",
     "notes/10 - Graphs/10.1 - Graphs.md",
     "assignments/A9.md",
@@ -109,7 +99,6 @@
     "notes/9 - Relations/9.1 - Relations and their Properties.md",
     "imgs/Pasted image 20220322230321.png",
     "notes/7 - Discrete Probability/7.2 - Probability Theory.md",
-    "notes/7 - Discrete Probability/7.3 - Bayes' Theorem.md",
-    "assignments/A8.md"
+    "notes/7 - Discrete Probability/7.3 - Bayes' Theorem.md"
   ]
 }
