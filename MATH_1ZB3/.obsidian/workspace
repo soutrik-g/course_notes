@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc9f05fc20c881a",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf"
-          }
-        }
-      },
-      {
         "id": "f5bdd523c50d98da",
         "type": "leaf",
         "state": {
@@ -63,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "3656b886984a0367",
@@ -101,14 +90,14 @@
   "active": "f5bdd523c50d98da",
   "lastOpenFiles": [
     "notes/14 - Partial Derivatives/14.4 - Tangent Planes and Linear Approximations.md",
-    "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf",
-    "practice/14.2.md",
     "practice/Schedule & Questions.md",
-    "practice/14.3.md",
     "pdfs/Math 1AA31ZB3 – Calculus W2022.pdf",
+    "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf",
     "notes/14 - Partial Derivatives/14.3 - Partial Derivatives.md",
+    "notes/14 - Partial Derivatives/14.2 - Limits and Continuity in Three Dimensions.md",
+    "practice/14.2.md",
+    "practice/14.3.md",
     "notes/11 - Sequences, Series, and Power Series/Pick a Test.md",
-    "notes/11 - Sequences, Series, and Power Series/11.3 - Integral Test.md",
-    "notes/10 - Parametric Equations and Polar Coordinates/10.1 - Parametric Equations.md"
+    "notes/11 - Sequences, Series, and Power Series/11.3 - Integral Test.md"
   ]
 }
