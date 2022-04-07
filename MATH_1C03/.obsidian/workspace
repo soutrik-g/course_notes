@@ -4,35 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fd18bcd4e23fc01a",
-        "type": "split",
-        "children": [
-          {
-            "id": "96192ba04136ccb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "problems/homework 6/exercise 6.4.13.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "10dd387653b94642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/6.5 - Congruence Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "1c572859c490eba8",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "18c192660fe13ec0",
@@ -40,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "problems/homework 6/exercise 6.4.13.md",
-            "mode": "preview",
+            "file": "problems/homework 6/exercise 6.5.6.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -101,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problems/homework 6/exercise 6.4.13.md",
+                "file": "problems/homework 6/exercise 6.5.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96192ba04136ccb8",
+  "active": "18c192660fe13ec0",
   "lastOpenFiles": [
-    "problems/homework 6/exercise 6.4.13.md",
     "problems/homework 6/exercise 6.5.6.md",
-    "notes/6.5 - Congruence Classes.md",
+    "notes/8.3 - Infinite Sets.md",
     "problems/homework 6/exercise 6.3.4.md",
+    "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf",
+    "problems/homework 6/exercise 6.4.13.md",
+    "notes/6.5 - Congruence Classes.md",
     "notes/6.3 - Relatively Prime Integers and the Fundamental Theorem of Arithmetic.md",
     "notes/6.4 - Congruences.md",
     "notes/6.2 - Greatest Common Divisors and the Euclidean Algorithm.md",
-    "notes/6.1 - An Introduction to Number Theory.md",
-    "6.`.md",
-    "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf"
+    "notes/6.1 - An Introduction to Number Theory.md"
   ]
 }
