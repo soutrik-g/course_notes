@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a113b08a8367d5b3",
+        "id": "0f60a8cabd15c95f",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf"
+            "file": "problems/homework 6/exercise 6.5.6.md",
+            "mode": "source",
+            "source": true
           }
         }
       },
@@ -19,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/8.3 - Infinite Sets.md",
-            "mode": "source",
+            "file": "problems/homework 6/exercise 6.5.6.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/8.3 - Infinite Sets.md",
+                "file": "problems/homework 6/exercise 6.5.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,14 +100,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18c192660fe13ec0",
+  "active": "0f60a8cabd15c95f",
   "lastOpenFiles": [
+    "problems/homework 6/exercise 6.5.6.md",
     "notes/8.3 - Infinite Sets.md",
     "notes/8.2 - Finite Sets.md",
     "resources/The Tools of Mathematical Reasoning by Tamara J. Lakins (z-lib.org).pdf",
     "notes/8.1 - Finite and Infinite Sets.md",
     "notes/4.1 - Sets.md",
-    "problems/homework 6/exercise 6.5.6.md",
     "problems/homework 6/exercise 6.3.4.md",
     "problems/homework 6/exercise 6.4.13.md",
     "notes/6.5 - Congruence Classes.md",

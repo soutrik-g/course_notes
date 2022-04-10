@@ -50,7 +50,7 @@ $$\begin{align*}
 $\therefore \cdot_m$ has an inverse for all $a \in \mathbb Z^*_m$.
 
 ## Prove ($\Rightarrow$)
-i.e., prove that if $\langle \mathbb Z^*_m, m \rangle$ is a group, then $m$ is prime. This statement is false for all $m$ since all tests fail the existence of inverses when finding the inverse of $0$.
+i.e., prove that if $\langle \mathbb Z^*_m, m \rangle$ is a group, then $m$ is prime.
 
 Equivalently, prove that if $m$ is not prime, then $\langle \mathbb Z^*_m, m \rangle$ is not a group. Assume for the sake of a contradiction that $\langle \mathbb Z^*_m, m \rangle$ is a group. Since $m$ is not prime, we may fix $p, q \in \mathbb Z^+$, $p \ne 1 \ne q$ such that $m = pq$ (i.e., $pq \equiv 0 \mod m$). Then $1 < p, q < m$ so by definition, $p, q \in \mathbb Z^*_m$. Consequently, there exists an inverse $k \in \mathbb Z^*_m$ such that $p k \equiv 1 \mod m$. Then, $pqk \equiv q \mod m$, and since we know that $pq \equiv 0 \mod m$, we have that $0 \equiv q \mod m$. Hence there exists an $h \in \mathbb Z^+$ such that $q = hm$, but at $h = 0$, $q = 0$ which contradicts $1 < q$ and at $h \ge 1$, $q \ge m$ which contradicts $q < m$.
 
