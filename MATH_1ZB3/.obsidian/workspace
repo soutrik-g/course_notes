@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/14 - Partial Derivatives/14.5 - Multivariable Chain Rule.md",
+            "file": "notes/14 - Partial Derivatives/14.6 - Directional Derivatives.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/14 - Partial Derivatives/14.5 - Multivariable Chain Rule.md",
+                "file": "notes/14 - Partial Derivatives/14.6 - Directional Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f5bdd523c50d98da",
   "lastOpenFiles": [
-    "notes/14 - Partial Derivatives/14.5 - Multivariable Chain Rule.md",
     "notes/14 - Partial Derivatives/14.6 - Directional Derivatives.md",
+    "notes/14 - Partial Derivatives/14.5 - Multivariable Chain Rule.md",
     "notes/14 - Partial Derivatives/14.4 - Tangent Planes and Linear Approximations.md",
-    "practice/Schedule & Questions.md",
-    "imgs/Pasted image 20220408174112.png",
     "notes/14 - Partial Derivatives/14.3 - Partial Derivatives.md",
-    "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf",
-    "pdfs/Math 1AA31ZB3 – Calculus W2022.pdf",
-    "pdfs/James Stewart, Daniel K. Clegg, Saleem Watson - Instructor’s Solutions Manuals for Calculus Early Transcendentals 9th Edition-Cengage Learning (2020).pdf",
-    "notes/14 - Partial Derivatives/14.2 - Limits and Continuity in Three Dimensions.md"
+    "notes/14 - Partial Derivatives/14.2 - Limits and Continuity in Three Dimensions.md",
+    "notes/14 - Partial Derivatives/14.1 - Functions of Several Variables.md",
+    "notes/11 - Sequences, Series, and Power Series/Pick a Test.md",
+    "notes/11 - Sequences, Series, and Power Series/11.11 - Applications of Taylor Polynomials.md",
+    "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
+    "notes/11 - Sequences, Series, and Power Series/11.3 - Integral Test.md"
   ]
 }
