@@ -19,9 +19,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/6.4 - Congruences.md",
-            "mode": "preview",
-            "source": true
+            "file": "notes/8.3 - Infinite Sets.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/6.4 - Congruences.md",
+                "file": "notes/8.3 - Infinite Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "f1e0597d65e37447",
   "lastOpenFiles": [
-    "notes/6.4 - Congruences.md",
-    "notes/6.3 - Relatively Prime Integers and the Fundamental Theorem of Arithmetic.md",
-    "notes/6.2 - Greatest Common Divisors and the Euclidean Algorithm.md",
-    "notes/3.2 - Strong Induction.md",
-    "notes/6.1 - An Introduction to Number Theory.md",
-    "6.3.md",
-    "notes/Laws and Rules.md",
+    "notes/8.3 - Infinite Sets.md",
+    "notes/8.1 - Finite and Infinite Sets.md",
+    "notes/8.2 - Finite Sets.md",
+    "notes/5.3 - One-to-One and Onto Functions.md",
+    "notes/5.4 - Invertible Functions.md",
+    "notes/5.5 - Functions and Sets.md",
     "notes/6.5 - Congruence Classes.md",
-    "problems/homework 6/exercise 6.5.6.md",
-    "problems/homework 6/exercise 6.4.13.md"
+    "notes/Laws and Rules.md",
+    "notes/6.2 - Greatest Common Divisors and the Euclidean Algorithm.md",
+    "notes/6.3 - Relatively Prime Integers and the Fundamental Theorem of Arithmetic.md"
   ]
 }
