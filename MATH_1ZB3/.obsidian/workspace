@@ -14,14 +14,14 @@
         }
       },
       {
-        "id": "f5bdd523c50d98da",
+        "id": "32373d0e7257b1ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
-            "mode": "source",
-            "source": false
+            "file": "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "3656b886984a0367",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
+                "file": "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5bdd523c50d98da",
+  "active": "32373d0e7257b1ca",
   "lastOpenFiles": [
-    "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
-    "practice/11.10.md",
-    "notes/11 - Sequences, Series, and Power Series/11.9 - Representations of Functions as Power Series.md",
-    "notes/11 - Sequences, Series, and Power Series/11.8 - Power Series.md",
-    "notes/11 - Sequences, Series, and Power Series/11.6 - The Ratio & Root Test.md",
-    "practice/11.6.md",
-    "notes/9 - Differential Equations/9.3 - Separable Equations.md",
-    "notes/9 - Differential Equations/9.1 - Modeling With Differential Equations.md",
-    "notes/9 - Differential Equations/9.5 - Linear Equations.md",
-    "notes/11 - Sequences, Series, and Power Series/11.5 - Alternating Series and Absolute Convergence.md"
+    "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
+    "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf",
+    "imgs/Pasted image 20220319132848.png",
+    "practice/10.3.md",
+    "notes/10 - Parametric Equations and Polar Coordinates/10.2 - Calculus with Parametric Curves.md",
+    "practice/10.2.md",
+    "notes/10 - Parametric Equations and Polar Coordinates/10.1 - Parametric Equations.md",
+    "notes/14 - Partial Derivatives/14.5 - Multivariable Chain Rule.md",
+    "notes/14 - Partial Derivatives/14.6 - Directional Derivatives.md",
+    "notes/9 - Differential Equations/9.5 - Linear Equations.md"
   ]
 }
