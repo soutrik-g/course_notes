@@ -17,11 +17,9 @@
         "id": "32373d0e7257b1ca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
-            "mode": "preview",
-            "source": true
+            "file": "imgs/Pasted image 20220319132848.png"
           }
         }
       }
@@ -63,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "3656b886984a0367",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
+                "file": "imgs/Pasted image 20220319132848.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "32373d0e7257b1ca",
   "lastOpenFiles": [
-    "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
-    "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf",
     "imgs/Pasted image 20220319132848.png",
+    "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
     "practice/10.3.md",
-    "notes/10 - Parametric Equations and Polar Coordinates/10.2 - Calculus with Parametric Curves.md",
-    "practice/10.2.md",
-    "notes/10 - Parametric Equations and Polar Coordinates/10.1 - Parametric Equations.md",
-    "notes/14 - Partial Derivatives/14.5 - Multivariable Chain Rule.md",
-    "notes/14 - Partial Derivatives/14.6 - Directional Derivatives.md",
-    "notes/9 - Differential Equations/9.5 - Linear Equations.md"
+    "notes/14 - Partial Derivatives/14.4 - Tangent Planes and Linear Approximations.md",
+    "notes/14 - Partial Derivatives/14.3 - Partial Derivatives.md",
+    "notes/14 - Partial Derivatives/14.2 - Limits and Continuity in Three Dimensions.md",
+    "practice/14.2.md",
+    "notes/9 - Differential Equations/9.1 - Modeling With Differential Equations.md",
+    "notes/14 - Partial Derivatives/14.1 - Functions of Several Variables.md",
+    "notes/10 - Parametric Equations and Polar Coordinates/10.2 - Calculus with Parametric Curves.md"
   ]
 }
