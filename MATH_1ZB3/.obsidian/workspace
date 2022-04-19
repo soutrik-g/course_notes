@@ -17,9 +17,11 @@
         "id": "32373d0e7257b1ca",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "imgs/Pasted image 20220319132848.png"
+            "file": "practice/Schedule & Questions.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -61,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "3656b886984a0367",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imgs/Pasted image 20220319132848.png",
+                "file": "practice/Schedule & Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "32373d0e7257b1ca",
   "lastOpenFiles": [
-    "imgs/Pasted image 20220319132848.png",
+    "practice/Schedule & Questions.md",
     "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
-    "practice/10.3.md",
-    "notes/14 - Partial Derivatives/14.4 - Tangent Planes and Linear Approximations.md",
-    "notes/14 - Partial Derivatives/14.3 - Partial Derivatives.md",
-    "notes/14 - Partial Derivatives/14.2 - Limits and Continuity in Three Dimensions.md",
-    "practice/14.2.md",
-    "notes/9 - Differential Equations/9.1 - Modeling With Differential Equations.md",
-    "notes/14 - Partial Derivatives/14.1 - Functions of Several Variables.md",
-    "notes/10 - Parametric Equations and Polar Coordinates/10.2 - Calculus with Parametric Curves.md"
+    "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
+    "notes/11 - Sequences, Series, and Power Series/11.11 - Applications of Taylor Polynomials.md",
+    "notes/11 - Sequences, Series, and Power Series/11.5 - Alternating Series and Absolute Convergence.md",
+    "practice/11.5.md",
+    "notes/11 - Sequences, Series, and Power Series/11.4 - Comparison Tests.md",
+    "practice/11.4.md",
+    "notes/11 - Sequences, Series, and Power Series/11.3 - Integral Test.md",
+    "imgs/Pasted image 20220319132848.png"
   ]
 }
