@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "practice/Schedule & Questions.md",
+            "file": "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
             "mode": "preview",
             "source": true
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice/Schedule & Questions.md",
+                "file": "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "32373d0e7257b1ca",
   "lastOpenFiles": [
+    "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
     "practice/Schedule & Questions.md",
     "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
-    "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
     "notes/11 - Sequences, Series, and Power Series/11.11 - Applications of Taylor Polynomials.md",
     "notes/11 - Sequences, Series, and Power Series/11.5 - Alternating Series and Absolute Convergence.md",
     "practice/11.5.md",
