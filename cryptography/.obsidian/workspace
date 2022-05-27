@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Discrete Logarithms and Diffie-Hellman/2.2 - The Discrete Logarithm Problem.md",
+            "file": "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
             "mode": "source",
             "source": false
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Discrete Logarithms and Diffie-Hellman/2.2 - The Discrete Logarithm Problem.md",
+                "file": "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "105d2458fe038770",
   "lastOpenFiles": [
+    "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
+    "1 - An Introduction to Cryptography/1.4 Prime Numbers, Unique Factorization, and Finite Fields.md",
     "2 - Discrete Logarithms and Diffie-Hellman/2.2 - The Discrete Logarithm Problem.md",
+    "imgs/Pasted image 20220526112719.png",
+    "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf",
     "2 - Discrete Logarithms and Diffie-Hellman/2.1 - The Birth of Public Key Cryptography.md",
     "2 - Discrete Logarithms and Diffie-Hellman.md",
     "6 - Elliptic Curves and Cryptography/6.3 - The Elliptic Curve Discrete Logarithm Problem.md",
     "6 - Elliptic Curves and Cryptography/6.1 - Elliptic Curves.md",
-    "6 - Elliptic Curves and Cryptography/6.2 - Elliptic Curves Over Finite Fields.md",
-    "imgs/Pasted image 20220525153535.png",
-    "Pasted image 20220525144411.png.md",
-    "imgs/Pasted image 20220525144411.png",
-    "1 - An Introduction to Cryptography/1.4 Prime Numbers, Unique Factorization, and Finite Fields.md"
+    "6 - Elliptic Curves and Cryptography/6.2 - Elliptic Curves Over Finite Fields.md"
   ]
 }
