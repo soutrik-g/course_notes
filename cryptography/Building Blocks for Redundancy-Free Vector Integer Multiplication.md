@@ -21,3 +21,13 @@ v1 = t1 + t2 + v4
 	- Layout of vector register consists of 4-digits
 - Output
 	- Layout of vector consists of an *upper* and *lower* destination.
+
+## Accumulation: Latency versus Throughput
+### Design Goals
+- maximising throughput
+- minimising latency 
+- maintaining flexibility to write software with either goal.
+
+- To maximise throughput, must include third input to `mammma` for an accumulator input.
+- Can then chain the `mama` instructions, also chaining carry inputs and outputs.
+![[Pasted image 20220529164146.png]]
