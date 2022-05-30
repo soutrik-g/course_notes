@@ -31,3 +31,12 @@ v1 = t1 + t2 + v4
 
 ![[Pasted image 20220529110650.png]]
 
+## Accumulation: Latency versus Throughput
+### Design Goals
+- maximizing throughput
+- minimizing latency 
+- maintaining flexibility to write software with either goal.
+
+- To maximize throughput, must include third input to `mammma` for an accumulator input.
+- Can then chain the `mama` instructions, also chaining carry inputs and outputs.
+![[Pasted image 20220529164146.png]]
