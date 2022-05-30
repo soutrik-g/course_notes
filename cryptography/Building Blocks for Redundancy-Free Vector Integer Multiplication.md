@@ -19,5 +19,15 @@ v1 = t1 + t2 + v4
 ![[Pasted image 20220528154141.png]]
 - Input
 	- Layout of vector register consists of 4-digits
+	- White backgrounds are 56-bit wide, meaning the grey padding takes up 8-bits.
+- Intermediate Products
+	- Products in white are *112 bits* wide with *16 bits* of grey padding to fill the *128-bit* registers.
 - Output
 	- Layout of vector consists of an *upper* and *lower* destination.
+		- For example, with 128-bit register values, we would use *32-bit* digits and *32-bit* multipliers.
+
+![[Pasted image 20220529110705.png]]
+
+
+![[Pasted image 20220529110650.png]]
+

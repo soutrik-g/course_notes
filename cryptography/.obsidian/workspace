@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "105d2458fe038770",
+        "id": "2585677241129773",
         "type": "leaf",
-        "dimension": 24,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +18,6 @@
       {
         "id": "d8ea825786078065",
         "type": "leaf",
-        "dimension": 76,
         "state": {
           "type": "pdf",
           "state": {
@@ -100,12 +98,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "105d2458fe038770",
+  "active": "2585677241129773",
   "lastOpenFiles": [
     "Building Blocks for Redundancy-Free Vector Integer Multiplication.md",
+    "pdfs/Building Blocks For.pdf",
     "imgs/Pasted image 20220528154010.png",
     "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
-    "pdfs/Building Blocks For.pdf",
     "pdfs/Poly1305.pdf",
     "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf",
     "1 - An Introduction to Cryptography/1.4 Prime Numbers, Unique Factorization, and Finite Fields.md",
