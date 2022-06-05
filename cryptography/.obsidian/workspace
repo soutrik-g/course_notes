@@ -6,20 +6,18 @@
       {
         "id": "2585677241129773",
         "type": "leaf",
-        "dimension": 49.68944099378882,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6 - Elliptic Curves and Cryptography/6.6 - Lenstra’s Elliptic Curve Factorization Algorithm.md",
+            "file": "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "d8ea825786078065",
+        "id": "55bd1ad2e79614af",
         "type": "leaf",
-        "dimension": 50.31055900621118,
         "state": {
           "type": "pdf",
           "state": {
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Elliptic Curves and Cryptography/6.6 - Lenstra’s Elliptic Curve Factorization Algorithm.md",
+                "file": "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +100,15 @@
   },
   "active": "2585677241129773",
   "lastOpenFiles": [
-    "6 - Elliptic Curves and Cryptography/6.6 - Lenstra’s Elliptic Curve Factorization Algorithm.md",
-    "6 - Elliptic Curves and Cryptography/6.5 - The Evolution of Public Key Cryptography.md",
-    "6 - Elliptic Curves and Cryptography/6.4 - Elliptic Curve Cryptography.md",
-    "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf",
-    "pdfs/Building Blocks For.pdf",
-    "Building Blocks for Redundancy-Free Vector Integer Multiplication.md",
     "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
     "2 - Discrete Logarithms and Diffie-Hellman/2.3 - Diffie-Hellman Key Exchange.md",
-    "6 - Elliptic Curves and Cryptography/6.3 - The Elliptic Curve Discrete Logarithm Problem.md",
-    "2 - Discrete Logarithms and Diffie-Hellman/2.5 - An Overview of the Theory of Groups.md"
+    "2 - Discrete Logarithms and Diffie-Hellman/2.2 - The Discrete Logarithm Problem.md",
+    "2 - Discrete Logarithms and Diffie-Hellman/2.1 - The Birth of Public Key Cryptography.md",
+    "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf",
+    "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
+    "1 - An Introduction to Cryptography/1.4 Prime Numbers, Unique Factorization, and Finite Fields.md",
+    "1 - An Introduction to Cryptography/1.3 - Modular Arithmetic.md",
+    "1 - An Introduction to Cryptography/1.2 - Divisibility and Greatest Common Divisors.md",
+    "imgs/Pasted image 20220524150018.png"
   ]
 }
