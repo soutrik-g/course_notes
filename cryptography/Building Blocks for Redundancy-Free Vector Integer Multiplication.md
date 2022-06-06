@@ -27,9 +27,13 @@ v1 = t1 + t2 + v4
 		- For example, with 128-bit register values, we would use *32-bit* digits and *32-bit* multipliers.
 
 ![[Pasted image 20220529110705.png]]
-
+- Achieves 100% utilization of multipliers because each colour has 4 multiplies.
 
 ![[Pasted image 20220529110650.png]]
+
+![[Pasted image 20220606000508.png]]
+
+
 
 ## Accumulation: Latency versus Throughput
 ### Design Goals

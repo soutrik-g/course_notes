@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
+            "file": "Building Blocks for Redundancy-Free Vector Integer Multiplication.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "55bd1ad2e79614af",
+        "id": "2abe90e3cc4467e0",
         "type": "leaf",
         "state": {
           "type": "pdf",
           "state": {
-            "file": "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf"
+            "file": "pdfs/Building Blocks For.pdf"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
+                "file": "Building Blocks for Redundancy-Free Vector Integer Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "2585677241129773",
   "lastOpenFiles": [
-    "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
-    "2 - Discrete Logarithms and Diffie-Hellman/2.3 - Diffie-Hellman Key Exchange.md",
-    "2 - Discrete Logarithms and Diffie-Hellman/2.2 - The Discrete Logarithm Problem.md",
-    "2 - Discrete Logarithms and Diffie-Hellman/2.1 - The Birth of Public Key Cryptography.md",
-    "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf",
-    "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
-    "1 - An Introduction to Cryptography/1.4 Prime Numbers, Unique Factorization, and Finite Fields.md",
-    "1 - An Introduction to Cryptography/1.3 - Modular Arithmetic.md",
-    "1 - An Introduction to Cryptography/1.2 - Divisibility and Greatest Common Divisors.md",
-    "imgs/Pasted image 20220524150018.png"
+    "Building Blocks for Redundancy-Free Vector Integer Multiplication.md",
+    "pdfs/Building Blocks For.pdf",
+    "6 - Elliptic Curves and Cryptography/6.6 - Lenstra’s Elliptic Curve Factorization Algorithm.md",
+    "6 - Elliptic Curves and Cryptography/6.5 - The Evolution of Public Key Cryptography.md",
+    "6 - Elliptic Curves and Cryptography/6.4 - Elliptic Curve Cryptography.md",
+    "6 - Elliptic Curves and Cryptography/6.3 - The Elliptic Curve Discrete Logarithm Problem.md",
+    "6 - Elliptic Curves and Cryptography/6.2 - Elliptic Curves Over Finite Fields.md",
+    "6 - Elliptic Curves and Cryptography/6.1 - Elliptic Curves.md",
+    "2 - Discrete Logarithms and Diffie-Hellman/2.5 - An Overview of the Theory of Groups.md",
+    "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md"
   ]
 }
