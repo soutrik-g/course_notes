@@ -33,8 +33,6 @@ v1 = t1 + t2 + v4
 
 ![[Pasted image 20220606000508.png]]
 
-
-
 ## Accumulation: Latency versus Throughput
 ### Design Goals
 - maximizing throughput
@@ -42,5 +40,29 @@ v1 = t1 + t2 + v4
 - maintaining flexibility to write software with either goal.
 
 - To maximize throughput, must include third input to `mammma` for an accumulator input.
-- Can then chain the `mama` instructions, also chaining carry inputs and outputs.
+	- Accumulator input - the result of the previous instruction.
+- Can then chain the `mammma` instruction, also chaining carries.
+- 
 ![[Pasted image 20220529164146.png]]
+
+- To minimizing latency, omit accumulator input; use 
+	- existing shift and vector-width add instructions which also take carries
+	- or instructions for inserting carries into register values and add instructions with no carries.
+
+- Propose 2 new instructions: `shaddhi` and `shaddlo`
+	- Three register inputs
+	- 1-3 carry inputs
+	- produces one of the halves for the final product.
+	- must be sequenced
+
+- `shaddlo`
+	- Takes $m_0, m_1,$ and $m_2$ and $cOut$ from $m_0$
+	- shifts $m_1$ left by one digit
+	- shifts $m_2$ left by three digits
+	- calculates the sum
+	- Combines the carries from the sum and $cOut$ from $m_0$.
+- `shaddhi`
+	- Takes $m_1, m_2$ and $m_3$ and $cOut$ from $m_2, m_3,$ and `shaddlo`.
+	- Shifts $m_1$ right by 3 digits, $m_2$ by 1, calculates the sum
+	- Combines carries with appropriate shifts
+	- No carry outs because the result fits in 2 registers.

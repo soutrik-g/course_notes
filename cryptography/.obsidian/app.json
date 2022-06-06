@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "spellcheck": true,
   "attachmentFolderPath": "imgs",
