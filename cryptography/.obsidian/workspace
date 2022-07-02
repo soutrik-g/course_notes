@@ -9,19 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "poly1305.md",
+            "file": "Calculations.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "29ef53dbd50fa21c",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "pdfs/Poly1305.pdf"
           }
         }
       }
@@ -63,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10f66a4e08649c0f",
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "poly1305.md",
+                "file": "Calculations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +89,15 @@
   },
   "active": "aeb2c3e9e27e1c51",
   "lastOpenFiles": [
+    "Calculations.md",
     "poly1305.md",
+    "Building Blocks for Redundancy-Free Vector Integer Multiplication.md",
+    "imgs/Pasted image 20220629233835.png",
     "1 - An Introduction to Cryptography/1.4 Prime Numbers, Unique Factorization, and Finite Fields.md",
     "1 - An Introduction to Cryptography/1.5 - Powers and Primitive Roots in Finite Fields.md",
     "2 - Discrete Logarithms and Diffie-Hellman/2.1 - The Birth of Public Key Cryptography.md",
     "2 - Discrete Logarithms and Diffie-Hellman/2.2 - The Discrete Logarithm Problem.md",
     "2 - Discrete Logarithms and Diffie-Hellman/2.3 - Diffie-Hellman Key Exchange.md",
-    "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md",
-    "2 - Discrete Logarithms and Diffie-Hellman/2.5 - An Overview of the Theory of Groups.md",
-    "3 - Integer Factorization and RSA/3.4 - Primality Testing.md",
-    "3 - Integer Factorization and RSA/3.1 - Euler's Formula nad Roots Modulo pq.md"
+    "2 - Discrete Logarithms and Diffie-Hellman/2.4 - The Elgamal Public Key Cryptosystem.md"
   ]
 }
