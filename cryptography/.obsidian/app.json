@@ -1,11 +1,6 @@
 {
-  "legacyEditor": false,
-  "livePreview": false,
   "vimMode": true,
-  "showLineNumber": true,
-  "spellcheck": true,
-  "attachmentFolderPath": "imgs",
-  "promptDelete": false,
-  "autoPairMarkdown": false,
-  "autoPairBrackets": false
+  "legacyEditor": false,
+  "attachmentFolderPath": "webinar-imgs",
+  "showLineNumber": true
 }

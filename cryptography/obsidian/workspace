@@ -1,17 +1,27 @@
 {
   "main": {
-    "id": "83bcd6f653965085",
+    "id": "70c0eb6acf0ea32f",
     "type": "split",
     "children": [
       {
-        "id": "5581121ff164ff03",
+        "id": "4792354934b9b5d9",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "pdfs/Calculus Early Transcendentals Ninth Edition by James Stewart, Daniel K. Clegg, Saleem Watson (z-lib.org).pdf"
+          }
+        }
+      },
+      {
+        "id": "32373d0e7257b1ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seismic Shifts - Challenges and Opportunities in the Post-ISA Era of Computer Systems Design.md",
-            "mode": "source",
-            "source": false
+            "file": "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -19,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "23e1c4f83ec80c12",
+    "id": "a9ae10eff4f20f66",
     "type": "split",
     "children": [
       {
-        "id": "ef56256699cea4c6",
+        "id": "8736abe056528ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "27e035830711b9f7",
+            "id": "aeab9790c68a4857",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +45,7 @@
             }
           },
           {
-            "id": "727c1f48c1b18c57",
+            "id": "84c62492c7887fe2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +63,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299
   },
   "right": {
-    "id": "cf279c1cb83174ec",
+    "id": "3656b886984a0367",
     "type": "split",
     "children": [
       {
-        "id": "e9a25ee5bf997370",
+        "id": "9ab98549a3bf8da0",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb297b81749cd36",
+            "id": "993cf7971f5aac02",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seismic Shifts - Challenges and Opportunities in the Post-ISA Era of Computer Systems Design.md",
+                "file": "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5581121ff164ff03",
+  "active": "32373d0e7257b1ca",
   "lastOpenFiles": [
-    "poly1305.md",
-    "6 - Elliptic Curves and Cryptography/6.1 - Elliptic Curves.md",
-    "6 - Elliptic Curves and Cryptography/6.2 - Elliptic Curves Over Finite Fields.md",
-    "pdfs/An-Introduction-to-Mathematical-Cryptography.pdf"
+    "notes/11 - Sequences, Series, and Power Series/11.10 - Taylor and Mclaurin Series.md",
+    "practice/Schedule & Questions.md",
+    "notes/10 - Parametric Equations and Polar Coordinates/10.3 - Polar Coordinates.md",
+    "notes/11 - Sequences, Series, and Power Series/11.11 - Applications of Taylor Polynomials.md",
+    "notes/11 - Sequences, Series, and Power Series/11.5 - Alternating Series and Absolute Convergence.md",
+    "practice/11.5.md",
+    "notes/11 - Sequences, Series, and Power Series/11.4 - Comparison Tests.md",
+    "practice/11.4.md",
+    "notes/11 - Sequences, Series, and Power Series/11.3 - Integral Test.md",
+    "imgs/Pasted image 20220319132848.png"
   ]
 }
