@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "79f6d464735edc60",
+    "type": "split",
+    "children": [
+      {
+        "id": "714717fe0a3c162f",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "pdfs/LN1-2022.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "568490a40e934c2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "10033471c1c46298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6981fde8aa7a93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4176774bdca06f22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b44a3cd6c8934fa0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fe93c9bcf51af14",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ded34e28b8ecb96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a034a01142b33f4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pdfs/LN1-2022.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29f9a20ff0c4a65b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pdfs/LN1-2022.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1aca93fd920aa89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9decf70a13011571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pdfs/LN1-2022.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "714717fe0a3c162f",
+  "lastOpenFiles": []
+}
