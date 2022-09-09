@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "spellcheck": true,
   "promptDelete": false,
-  "attachmentFolderPath": "imgs"
+  "attachmentFolderPath": "imgs",
+  "autoPairMarkdown": false
 }

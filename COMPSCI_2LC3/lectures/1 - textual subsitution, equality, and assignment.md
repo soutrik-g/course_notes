@@ -1,4 +1,4 @@
-# LN2-2022
+# LN1-2022
 
 ![[Pasted image 20220906191626.png]]
 - do this if you want your hand to cramp
@@ -34,10 +34,10 @@ $$\frac{P_1, \dots, P_k}{C}$$
 ### Inference Rule *Substitution*
 $$\frac{E}{E[v:=F]}$$
 ## Definition
-$$\{P\} S \{Q\}$$
+$$\{P\}\ S\ \{Q\}$$
 - if $P$ is true before $S$ is executed, and if the execution of $S$ terminates, then $Q$ is true afterwards
 
 ### Definition of Assignment
-$$\{R[x:=E]\} x:=E \{R\}$$
+$$\{R[x:=E]\}\ x:=E\ \{R\}$$
 #### Example
 Consider $S: x:= x+1$ and $R: x>4$. Then, $E: x+1$ so $R[x:=E]: x+1>4$.

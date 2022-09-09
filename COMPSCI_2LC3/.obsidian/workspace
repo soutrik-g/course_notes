@@ -9,21 +9,38 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - textual subsitution, equality, and assignment.md",
+            "file": "exercises/1.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "886f4123411808b4",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
+        "id": "410c82b96bfcc3ab",
+        "type": "split",
+        "children": [
+          {
+            "id": "886f4123411808b4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
+              }
+            }
+          },
+          {
+            "id": "655b0532410adc3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/hakim_C1_answers.pdf"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - textual subsitution, equality, and assignment.md",
+                "file": "exercises/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - textual subsitution, equality, and assignment.md",
+                "file": "exercises/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - textual subsitution, equality, and assignment.md"
+                "file": "exercises/1.md"
               }
             }
           }
@@ -141,7 +158,11 @@
   "active": "714717fe0a3c162f",
   "lastOpenFiles": [
     "pdfs/LN1-2022.pdf",
-    "1 - textual subsitution, equality, and assignment.md",
+    "lectures/1 - textual subsitution, equality, and assignment.md",
+    "exercises/1.md",
+    "pdfs/hakim_C1_answers.pdf",
+    "pdfs/LN2-2022.pdf",
+    "lectures/2 - boolean expressions.md",
     "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
     "igs.md"
   ]

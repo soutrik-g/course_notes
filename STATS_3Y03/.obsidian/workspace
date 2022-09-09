@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - counting and combinatorial analysis.md",
+            "file": "3 - Random Probability.md",
             "mode": "source",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - counting and combinatorial analysis.md",
+            "file": "3 - Random Probability.md",
             "mode": "preview",
             "source": false
           }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - counting and combinatorial analysis.md",
+                "file": "3 - Random Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - counting and combinatorial analysis.md",
+                "file": "3 - Random Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - counting and combinatorial analysis.md"
+                "file": "3 - Random Probability.md"
               }
             }
           }
@@ -140,10 +141,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e58cc3422c8ba5b5",
+  "active": "3d056580fbffae31",
   "lastOpenFiles": [
-    "1 - probability.md",
     "2 - counting and combinatorial analysis.md",
+    "3 - Random Probability.md",
+    "1 - probability.md",
     "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
   ]
 }
