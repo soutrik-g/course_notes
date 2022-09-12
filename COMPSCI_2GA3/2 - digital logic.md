@@ -31,6 +31,7 @@ $$\sum_{k=0}^n \frac 1 {R_k}$$
 | 0 | 1 |
 | 1 | 0 |
 
+#### NAND
 ![[Pasted image 20220908111012.png]]
 
 | A | B | O |
@@ -40,7 +41,8 @@ $$\sum_{k=0}^n \frac 1 {R_k}$$
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-![[Pasted image 20220912104203.png]]
+#### XOR
+![[Pasted image 20220912152440.png]]
 
 | A | B | O |
 | - | - | - |
@@ -49,41 +51,57 @@ $$\sum_{k=0}^n \frac 1 {R_k}$$
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-### Case A=0, B=0
-![[Pasted image 20220912104329.png]]
+##### Case A=0, B=0
+![[Pasted image 20220912155709.png]]
 
-Thus O is 0.
+Thus Output is 0.
 
-### Case A=0, B=1
-Thus O is 1
+##### Case A=0, B=1
+![[Pasted image 20220912155724.png]]
 
-### Case A=1, B=0
-Thus 
+Thus Output is 1
 
-### Case A=1, B=1
-Thus O is 0
+##### Case A=1, B=0
+![[Pasted image 20220912155757.png]]
+Thus Output is 1
 
-## Logic Circuits
+##### Case A=1, B=1
+![[Pasted image 20220912155807.png]]
+Thus Output is 0
+
+### Logic Circuits
 ![[Pasted image 20220912104823.png]]
 - inverter - not gate
 - nor - or gate followed by inverter
 
-### Example: Logic Circuits
+#### Example: Logic Circuits
 ![[Pasted image 20220912105651.png]]
 
 > [!NOTE] Corresponds to logic formula
 > $$NOT(NAND(X, NOR(Z, NOT(Y))))$$
 
-## Adding Binary Numbers
-### Half Adder
+### Adding Binary Numbers
+#### Half Adder
 ![[Pasted image 20220912111117.png]]
+- basically XOR but also contains the AND gate for the carry
 
-### Full Adder
+#### Full Adder
 ![[Pasted image 20220912111315.png]]
 ![[Pasted image 20220912111347.png]]
 ![[Pasted image 20220912111447.png]]
-- $c_0, c_1$ are put through or gate because they cannot be both 1 at the same time.
+- $c_0$ - carry from $a_0 + b_0$
+- $c_{01}$ - carry from $c_{in} + (a_0 \oplus b_0)$
 
-| $a_0$ | $b_0$ | $c_{in}$ | $c_{out_1}$ | $c_{out_2}$ |
-|-|-|-|-|
-| | | | |
+| $a_0$ | $b_0$ | $c_{in}$ | $c_{0}$ | $c_{01}$ | $c_{out}$ |
+|-|-|-|-|-|-|
+| 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 1 | 0 | 1 | 0 | 1 |
+| 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 0 | 1 | 1 |
+| 1 | 0 | 1 | 0 | 1 | 1 |
+| 1 | 1 | 1 | 1 | 0 | 1 |
+
+- 
+  The table shows that $c_0, c_{01}$ never overlap, so we can safely OR them to get the final $c_{out}$.

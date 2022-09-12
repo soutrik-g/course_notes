@@ -3,5 +3,6 @@
   "spellcheck": true,
   "legacyEditor": false,
   "vimMode": true,
-  "attachmentFolderPath": "imgs"
+  "attachmentFolderPath": "imgs",
+  "promptDelete": false
 }
