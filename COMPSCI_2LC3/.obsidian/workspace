@@ -1,60 +1,45 @@
 {
   "main": {
-    "id": "79f6d464735edc60",
+    "id": "d9a27a4b4eebddd0",
     "type": "split",
     "children": [
       {
-        "id": "714717fe0a3c162f",
+        "id": "3d056580fbffae31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lectures/2 - boolean expressions.md",
+            "file": "assignments/1.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
       {
-        "id": "410c82b96bfcc3ab",
-        "type": "split",
-        "children": [
-          {
-            "id": "886f4123411808b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
-              }
-            }
-          },
-          {
-            "id": "655b0532410adc3a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/hakim_C1_answers.pdf"
-              }
-            }
+        "id": "88531fcb5ad5aaa8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "assignments/1.md",
+            "mode": "preview",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "568490a40e934c2c",
+    "id": "da0167aec822f48c",
     "type": "split",
     "children": [
       {
-        "id": "10033471c1c46298",
+        "id": "c9465ebb3b667b81",
         "type": "tabs",
         "children": [
           {
-            "id": "1c6981fde8aa7a93",
+            "id": "126054067ec04be2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "4176774bdca06f22",
+            "id": "7831d5842ad952a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +62,7 @@
             }
           },
           {
-            "id": "b44a3cd6c8934fa0",
+            "id": "c14b5a4b1cd443db",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -91,20 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "8fe93c9bcf51af14",
+    "id": "327bc96f3fd28aa1",
     "type": "split",
     "children": [
       {
-        "id": "2ded34e28b8ecb96",
+        "id": "600eabb689c3079b",
         "type": "tabs",
         "children": [
           {
-            "id": "a034a01142b33f4d",
+            "id": "14c2e26d3aaf4526",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/2 - boolean expressions.md",
+                "file": "assignments/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,19 +101,19 @@
             }
           },
           {
-            "id": "29f9a20ff0c4a65b",
+            "id": "bec4366662131bfb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/2 - boolean expressions.md",
+                "file": "assignments/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f1aca93fd920aa89",
+            "id": "3bc589ba86be244a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,12 +124,12 @@
             }
           },
           {
-            "id": "9decf70a13011571",
+            "id": "c551f06f63fe8346",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/2 - boolean expressions.md"
+                "file": "assignments/1.md"
               }
             }
           }
@@ -155,15 +140,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "714717fe0a3c162f",
+  "active": "3d056580fbffae31",
   "lastOpenFiles": [
-    "exercises/1.md",
-    "pdfs/LN1-2022.pdf",
-    "lectures/1 - textual subsitution, equality, and assignment.md",
-    "pdfs/hakim_C1_answers.pdf",
-    "pdfs/LN2-2022.pdf",
-    "lectures/2 - boolean expressions.md",
-    "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
-    "igs.md"
+    "1 - probability.md",
+    "assignments/1.md",
+    "3 - Random Probability.md",
+    "2 - counting and combinatorial analysis.md",
+    "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
   ]
 }

@@ -4,5 +4,6 @@
   "spellcheck": true,
   "promptDelete": false,
   "attachmentFolderPath": "imgs",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false
 }
