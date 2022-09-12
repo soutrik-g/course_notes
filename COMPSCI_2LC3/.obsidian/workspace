@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "exercises/1.md",
+            "file": "lectures/2 - boolean expressions.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/1.md",
+                "file": "lectures/2 - boolean expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/1.md",
+                "file": "lectures/2 - boolean expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/1.md"
+                "file": "lectures/2 - boolean expressions.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "714717fe0a3c162f",
   "lastOpenFiles": [
+    "exercises/1.md",
     "pdfs/LN1-2022.pdf",
     "lectures/1 - textual subsitution, equality, and assignment.md",
-    "exercises/1.md",
     "pdfs/hakim_C1_answers.pdf",
     "pdfs/LN2-2022.pdf",
     "lectures/2 - boolean expressions.md",

@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 - Random Probability.md",
+            "file": "assignments/1.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "e58cc3422c8ba5b5",
+        "id": "88531fcb5ad5aaa8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 - Random Probability.md",
+            "file": "assignments/1.md",
             "mode": "preview",
             "source": false
           }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Random Probability.md",
+                "file": "assignments/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Random Probability.md",
+                "file": "assignments/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Random Probability.md"
+                "file": "assignments/1.md"
               }
             }
           }
@@ -143,9 +142,10 @@
   },
   "active": "3d056580fbffae31",
   "lastOpenFiles": [
-    "2 - counting and combinatorial analysis.md",
-    "3 - Random Probability.md",
     "1 - probability.md",
+    "assignments/1.md",
+    "3 - Random Probability.md",
+    "2 - counting and combinatorial analysis.md",
     "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
   ]
 }

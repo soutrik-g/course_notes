@@ -2,5 +2,8 @@
   "vimMode": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "imgs",
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false
 }
