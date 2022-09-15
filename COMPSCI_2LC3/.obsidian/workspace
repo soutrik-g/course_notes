@@ -7,24 +7,16 @@
         "id": "3d056580fbffae31",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "assignments/1.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
         "id": "88531fcb5ad5aaa8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "assignments/1.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignments/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assignments/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assignments/1.md"
-              }
+              "state": {}
             }
           }
         ]
