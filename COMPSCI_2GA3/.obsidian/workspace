@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -129,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84f9a22e07c5f8b3",
+  "active": "126054067ec04be2",
   "lastOpenFiles": [
     "lectures/2 - digital logic basics/2.3 - floating point representation.md",
     "lectures/2 - digital logic basics/2.2 - digital representation.md",

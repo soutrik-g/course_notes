@@ -9,23 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assignments/1.md",
-            "mode": "preview",
+            "file": "lectures/5 - conditional probability.md",
+            "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "ee24e92386bb384c"
       },
       {
-        "id": "88531fcb5ad5aaa8",
+        "id": "1d67081798a34d6d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 - something.md",
+            "file": "lectures/5 - conditional probability.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "ee24e92386bb384c"
       }
     ],
     "direction": "vertical"
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -89,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignments/1.md",
+                "file": "lectures/5 - conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assignments/1.md",
+                "file": "lectures/5 - conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assignments/1.md"
+                "file": "lectures/5 - conditional probability.md"
               }
             }
           }
@@ -140,13 +143,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d056580fbffae31",
+  "active": "1d67081798a34d6d",
   "lastOpenFiles": [
-    "4 - something.md",
-    "3 - Random Probability.md",
+    "imgs/Pasted image 20220915121133.png",
+    "lectures/5 - conditional probability.md",
+    "imgs/Pasted image 20220915121116.png",
+    "lectures/4 - combinatorics.md",
+    "lectures/3 - random probability.md",
+    "lectures/2 - counting and combinatorial analysis.md",
+    "lectures/1 - probability.md",
     "assignments/1.md",
-    "1 - probability.md",
-    "2 - counting and combinatorial analysis.md",
     "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
   ]
 }

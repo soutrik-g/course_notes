@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "3d056580fbffae31",
+        "id": "de996a068915c174",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "lectures/3 - propositional calculus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
-        "id": "88531fcb5ad5aaa8",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "a8a9fde7e15fa2e0",
+        "type": "split",
+        "children": [
+          {
+            "id": "88531fcb5ad5aaa8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
+              }
+            }
+          },
+          {
+            "id": "3d056580fbffae31",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/LN3-2022.pdf"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lectures/3 - propositional calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lectures/3 - propositional calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "lectures/3 - propositional calculus.md"
+              }
             }
           }
         ]
@@ -128,8 +156,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d056580fbffae31",
+  "active": "de996a068915c174",
   "lastOpenFiles": [
+    "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
+    "pdfs/LN3-2022.pdf",
+    "lectures/3 - propositional calculus.md",
+    "pdfs/LN2-2022.pdf",
     "1 - probability.md",
     "assignments/1.md",
     "3 - Random Probability.md",
