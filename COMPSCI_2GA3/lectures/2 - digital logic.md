@@ -183,6 +183,7 @@ Now we have different outputs for the same configuration of $R$ and $S$.
 > 1|1|***no***
 
 ### SR Latch (NAND)
+![[Pasted image 20220915103158.png]]
 > [!NOTE] Summary
 > 
 > S|R|$Q$|$\overline Q$
@@ -218,3 +219,30 @@ Basically when we set enable, we write the value to the register. Otherwise, val
 - Clock frequency $f = \frac 1 T$
 	- measured in Hz
 - Complex Circuits - multiple clocks
+
+### Binary Counter
+![[Pasted image 20220915104618.png]]
+
+### Decoder
+![[Pasted image 20220915104637.png]]
+- $b_0, b_3$ - n-bit inputs
+- Selects one of $2^n$ outputs
+
+### Multiplexer / DeMultiplexer
+![[Pasted image 20220915104851.png]]
+![[Pasted image 20220915104929.png]]
+- $a, b$ are control lines
+
+## Fixed vs Programmable Logic
+Types of logic circuits;
+- Fixed logic circuits - pre-determined function
+- programmable logic
+	- Example: field programmable gate array (FPGA)
+- Stored program and re-programmable circuits
+
+## Hardware Design Principles
+- Replication vs Iteration
+- Gate minimization
+- Power
+- Abstraction
+

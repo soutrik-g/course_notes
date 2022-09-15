@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assignments/h1/task 1 - digital logic.md",
+            "file": "lectures/2 - digital logic.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignments/h1/task 1 - digital logic.md",
+                "file": "lectures/2 - digital logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assignments/h1/task 1 - digital logic.md",
+                "file": "lectures/2 - digital logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assignments/h1/task 1 - digital logic.md"
+                "file": "lectures/2 - digital logic.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "84f9a22e07c5f8b3",
   "lastOpenFiles": [
+    "imgs/Pasted image 20220915104839.png",
     "lectures/2 - digital logic.md",
     "assignments/h1/task 1 - digital logic.md",
     "assignments/h1/hw_01.pdf",
@@ -139,7 +140,6 @@
     "assignments/h1/task 2 - data representation.md",
     "imgs/Pasted image 20220914105808.png",
     "imgs/Pasted image 20220914105519.png",
-    "1 - probability.md",
-    "assignments/1.md"
+    "1 - probability.md"
   ]
 }
