@@ -221,12 +221,18 @@ Basically when we set enable, we write the value to the register. Otherwise, val
 - Complex Circuits - multiple clocks
 
 ### Binary Counter
-![[Pasted image 20220915104618.png]]
+![[Pasted image 20220915233352.png]]
+- Output starts at 0, but counts up every time the input transitions from 0 to 1.
 
-### Decoder
-![[Pasted image 20220915104637.png]]
+### Decoder/DeMultiplexor/Demux
+![[Pasted image 20220915234334.png]]
 - $b_0, b_3$ - n-bit inputs
 - Selects one of $2^n$ outputs
+- Basically the binary number the inputs make will translate to which number of the outputs it will be.
+
+
+> [!example] Circuits in use
+> ![[Pasted image 20220915234745.png]]
 
 ### Multiplexer / DeMultiplexer
 ![[Pasted image 20220915104851.png]]

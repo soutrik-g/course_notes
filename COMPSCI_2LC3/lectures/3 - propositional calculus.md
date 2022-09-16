@@ -1,4 +1,3 @@
-
 > [!NOTE] Definitions
 > *calculus* - method or process of reasoning by calculation with symbols
 > *propositional calculus/equational logic/__E__* - method of calculating with boolean expressions with propositional variables

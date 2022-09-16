@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lectures/2 - digital logic basics/2.1 - data and programs.md",
+            "file": "lectures/1 - digital logic.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "56732cf1ae7f282b",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "pdfs/textbook.pdf"
           }
         }
       }
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/2 - digital logic basics/2.1 - data and programs.md",
+                "file": "lectures/1 - digital logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/2 - digital logic basics/2.1 - data and programs.md",
+                "file": "lectures/1 - digital logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/2 - digital logic basics/2.1 - data and programs.md"
+                "file": "lectures/1 - digital logic.md"
               }
             }
           }
@@ -128,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "126054067ec04be2",
+  "active": "84f9a22e07c5f8b3",
   "lastOpenFiles": [
+    "pdfs/textbook.pdf",
+    "imgs/Pasted image 20220915104637.png",
+    "lectures/1 - digital logic.md",
+    "imgs/Pasted image 20220915104618.png",
+    "lectures/2 - digital logic basics/2.1 - data and programs.md",
     "lectures/2 - digital logic basics/2.3 - floating point representation.md",
     "lectures/2 - digital logic basics/2.2 - digital representation.md",
-    "lectures/2 - digital logic basics/2.1 - data and programs.md",
-    "lectures/1 - digital logic.md",
     "lectures/0 - Introduction.md",
     "imgs/Pasted image 20220915104839.png",
-    "assignments/h1/task 1 - digital logic.md",
-    "assignments/h1/hw_01.pdf",
-    "assignments/h1/task 4 - floating point representation.md",
-    "assignments/h1/task 2 - data representation.md"
+    "assignments/h1/task 1 - digital logic.md"
   ]
 }
