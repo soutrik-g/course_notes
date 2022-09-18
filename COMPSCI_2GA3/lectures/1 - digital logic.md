@@ -228,6 +228,9 @@ Basically when we set enable, we write the value to the register. Otherwise, val
 ![[Pasted image 20220915234334.png]]
 - $b_0, b_3$ - n-bit inputs
 - Selects one of $2^n$ outputs
+- single integrated circuit that uses a binary value to map an input to a set of outputs.
+- Only one output of a decoder is on at any time; all others are off
+- Part of a circuit to handle the task of performing many steps in sequence
 - Basically the binary number the inputs make will translate to which number of the outputs it will be.
 
 

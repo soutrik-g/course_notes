@@ -3,10 +3,8 @@
 # a)
 Let $n \in \mathbb Z^{\ge 1}$ and $P(n)$ be the statement that "$n$ bits can represent $2^n$ distinct values." We prove that for all $n$, $P(n)$ is true.
 
-
 > [!NOTE] Definition
 >  Let $k \in \mathbb Z^{\ge 1}$ and $a_k \in \{0, 1\}$. Then, we define the value $a_k \cdot 2^k$ as one bit.
-
 
 ## Base Case: $n = 1$
 When $n=1$, then there are 2 values that 1 bit can represent:
@@ -18,15 +16,15 @@ We have that $0 \cdot 2^0 \ne 1 \cdot 2^0$.
 $\therefore$ $1$ bit can represent $2^1$ distinct values.
 
 ## Inductive Step
-*Induction Hypothesis:* Let $k \in \mathbb Z^{\ge 2}$, and assume that $P(k-1)$ is true.
-*WTS:* $P(n-1) \Rightarrow P(n)$
+*Induction Hypothesis:* Let $k \in \mathbb Z^{\ge 1}$, and assume that $P(k)$ is true.
+*WTS:* $P(n) \Rightarrow P(n+1)$
 
-Let $a_{k-2}, a_{k-3}, \dots, a_0 \in \{0, 1\}$. Then, we know that the integer $b$ of the form
-$$b = a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0$$
+Let $a_{k-1}, a_{k-2}, \dots, a_0 \in \{0, 1\}$. Then, we know that the integer $b$ of the form
+$$b = a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0$$
 has $2^{k-1}$ distinct integer representations for distinct combinations of $a_{k-2}, \dots a_0$ *Induction Hypothesis*. By our definition, it also has $k-1$ bits.
 
 Now, suppose $a_{k-1} \in \{0, 1\}$. Then we analyze the following equation with $k$ bits:
-$$a_{k-1} \cdot 2^{k-1} + b = a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0$$
+$$a_{k} \cdot 2^{k} + b = a_{k} \cdot 2^{k} + a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0$$
 
 ### Case 1: $a_{k-1} = 0$
 By simple arithmetic,
@@ -74,4 +72,3 @@ With two's complement, the maximum value that can be represented in 4 bits is $0
 
 ## Unsigned Integer
 With unsigned integers, the minimum value will always be 0, or $0000$. The maximum value will be when all the bits are set, or $1111$, or $15$.
-
