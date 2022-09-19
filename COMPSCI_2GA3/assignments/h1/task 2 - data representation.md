@@ -21,50 +21,53 @@ $\therefore$ $1$ bit can represent $2^1$ distinct values.
 
 Let $a_{k-1}, a_{k-2}, \dots, a_0 \in \{0, 1\}$. Then, we know that the integer $b$ of the form
 $$b = a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0$$
-has $2^{k-1}$ distinct integer representations for distinct combinations of $a_{k-2}, \dots a_0$ *Induction Hypothesis*. By our definition, it also has $k-1$ bits.
+has $2^k$ distinct integer representations for distinct combinations of $a_{k-1}, \dots a_0$ *Induction Hypothesis*. By our definition, it also has $k$ bits.
 
-Now, suppose $a_{k-1} \in \{0, 1\}$. Then we analyze the following equation with $k$ bits:
+Now, suppose $a_{k} \in \{0, 1\}$. Then we analyze the following equation with $k+1$ bits:
 $$a_{k} \cdot 2^{k} + b = a_{k} \cdot 2^{k} + a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0$$
 
 ### Case 1: $a_{k-1} = 0$
 By simple arithmetic,
 $$\begin{align*}
-	0 \cdot 2^{k-1} + b &= 0 \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0 \\
-	b &= a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0
+	0 \cdot 2^{k} + b &= 0 \cdot 2^{k} + a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0 \\
+	b &= a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0
 \end{align*}$$
-Thus when $a = 0$, there are $2^{k-1}$ distinct integer representations.
+Thus when $a = 0$, there are $2^{k}$ distinct integer representations.
 
 ### Case 2: $a_{k-1} = 1$
 By simple arithmetic,
 $$\begin{align*}
-	1 \cdot 2^{k-1} + b &= 1 \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0 \\
-	b &= a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0
+	1 \cdot 2^{k} + b &= 1 \cdot 2^{k} + a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0 \\
+	b &= a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0
 \end{align*}$$
-Thus when $a = 1$, there are $2^{k-1}$ distinct representations.
+Thus when $a = 1$, there are $2^{k}$ distinct representations.
 
 ### Show that the values in **Case 1** and **Case 2** are distinct from each other
 $$\begin{align*}
-	a_{k-2} \cdot 2^{k-2} + a_{k-3} \cdot 2^{k-3} + \cdots + a_0 \cdot 2^0 \le 2^{k-2} + 2^{k-3} + \cdots + 2^0 \\
-	b \le 2^{k-2} + 2^{k-3} + \cdots + 2^0
+	a_{k-1} \cdot 2^{k-1} + a_{k-2} \cdot 2^{k-2} + \cdots + a_0 \cdot 2^0 \le 2^{k-1} + 2^{k-2} + \cdots + 2^0 \\
+	b \le 2^{k-1} + 2^{k-2} + \cdots + 2^0
 \end{align*}$$
 
-thus the max value of $b$ is $\sum_{i = 0}^{k-2} 2^i$. Using the Geometric Series formula,
+thus the max value of $b$ is $\sum_{i = 0}^{k-1} 2^i$. Using the Geometric Series formula,
 $$\begin{align*}
-	b &\le 2^{k-2} + 2^{k-3} + \cdots + 2^0 \\
-	b &\le \frac{2^{k-1}-1}{2-1} \\
-	b &\le 2^{k-1} - 1 \\
-	b &< 2^{k-1}
+	b &\le 2^{k-1} + 2^{k-2} + \cdots + 2^0 \\
+	b &\le \frac{2^{k}-1}{2-1} \\
+	b &\le 2^{k} - 1 \\
+	b &< 2^{k}
 \end{align*}$$
 
-Now let $c_{k-2}, c_{k-3}, \dots, c_0 \in \{0, 1\}$ and $d$ be an integer of the form
-$$d = c_{k-2} \cdot 2^{k-2} + c_{k-3} \cdot 2^{k-3} + \cdots + c_0 \cdot 2^0.$$
+Now let $c_{k-1}, c_{k-2}, \dots, c_0 \in \{0, 1\}$ and $d$ be an integer of the form
+$$d = c_{k-1} \cdot 2^{k-1} + c_{k-2} \cdot 2^{k-2} + \cdots + c_0 \cdot 2^0.$$
 Then,
-$$1 \cdot 2^{k-1} + b > d$$
-for all values $b$ and $d$, thus the values in **Case 1** and **Case 2** are distinct from each other. Thus, from adding the 2 distinct representations with each other, there are $2^{k-1} + 2^{k-1}i = 2^k$ distinct representations in total.
+$$\begin{align*}
+	d &< 2^k \\
+	d &< 2^k + b
+\end{align*}$$
+for all values $b$ and $d$, hence the values in **Case 1** and **Case 2** are distinct from each other. Thus, from adding the 2 distinct representations with each other, there are $2^{k} + 2^{k}i = 2^{k+1}$ distinct representations in total.
 
-Consequently, $a_{k-1} \cdot 2^{k-1}+ b$ is a $k$ bit integer that has $2^k$ distinct values.
+Consequently, $a_{k} \cdot 2^{k} + b$ is a $k$ bit integer that has $2^{k+1}$ distinct values.
 
-$\therefore$ $P(k)$ is true, thus for all $n \in \mathbb Z^{\ge 1}, P(n)$ is true.
+$\therefore$ $P(k+1)$ is true, thus for all $n \in \mathbb Z^{\ge 1}, P(n)$ is true.
 
 # b)
 ## Two's Complement Representation
