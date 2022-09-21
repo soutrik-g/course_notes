@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "de996a068915c174",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "lectures/3 - propositional calculus.md",
-            "mode": "source",
-            "source": false
+        "id": "d97a24b30d2a08a3",
+        "type": "split",
+        "dimension": 48.143053645116915,
+        "children": [
+          {
+            "id": "de996a068915c174",
+            "type": "leaf",
+            "dimension": 52.77777777777778,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignments/a1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82157d23d54f050f",
+            "type": "leaf",
+            "dimension": 47.22222222222222,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lectures/3 - propositional calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "a8a9fde7e15fa2e0",
         "type": "split",
+        "dimension": 51.856946354883085,
         "children": [
           {
             "id": "88531fcb5ad5aaa8",
@@ -35,7 +58,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/LN3-2022.pdf"
+                "file": "pdfs/as1-2022.pdf"
               }
             }
           }
@@ -88,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/3 - propositional calculus.md",
+                "file": "assignments/a1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/3 - propositional calculus.md",
+                "file": "assignments/a1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/3 - propositional calculus.md"
+                "file": "assignments/a1.md"
               }
             }
           }
@@ -157,14 +181,15 @@
   },
   "active": "de996a068915c174",
   "lastOpenFiles": [
-    "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
-    "pdfs/LN3-2022.pdf",
     "lectures/3 - propositional calculus.md",
+    "assignments/a1.md",
+    "imgs/Pasted image 20220920180534.png",
+    "lectures/2 - boolean expressions.md",
     "pdfs/LN2-2022.pdf",
-    "1 - probability.md",
-    "assignments/1.md",
-    "3 - Random Probability.md",
-    "2 - counting and combinatorial analysis.md",
-    "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
+    "imgs/Pasted image 20220919181348.png",
+    "pdfs/LN3-2022.pdf",
+    "pdfs/hakim_C1_answers.pdf",
+    "lectures/1 - textual subsitution, equality, and assignment.md",
+    "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
   ]
 }

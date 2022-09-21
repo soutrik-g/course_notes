@@ -13,6 +13,21 @@
 >   - $\_\not\Leftrightarrow\_ : \mathbb B \times \mathbb B \to \mathbb B$ - inequivalence
 
 ## Definition
+The *dual* $P_D$ of a boolean expression $P$ is constructed from $P$ by interchanging occurrences of
+1. $true$ and $false$,
+2. $\land$ and $\lor$,
+3. $\equiv$ and $\not \equiv$
+4. $\Rightarrow$ and $\not \Leftarrow$ and
+5. $\Leftarrow$ and $\not \Rightarrow$
+
+![[Pasted image 20220919184518.png]]
+They are not quite the same as negation.
+
+> [!NOTE] Metatheorem Duality
+> 1) $P$ is valid $iff$ $\lnot P_D$ is valid
+> 2) $P \equiv Q$ is valid $iff$ $P_D \equiv Q_D$ is valid.
+
+## Definition
 Let $P$ be a boolean expression. $P$ is...
 - *satisfied* if it is $true$ in that state.
 - *satisfiable* if there is a state in which it is satisfied
@@ -22,3 +37,5 @@ Let $P$ be a boolean expression. $P$ is...
 
 ## Modeling English Propositions
 ![[Pasted image 20220908131522.png]]
+
+
