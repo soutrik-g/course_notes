@@ -7,9 +7,11 @@
         "id": "33d214aa26bf24f5",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assignments/h1/hw_01.pdf"
+            "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignments/h1/hw_01.pdf",
+                "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assignments/h1/hw_01.pdf",
+                "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assignments/h1/hw_01.pdf"
+                "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md"
               }
             }
           }
@@ -129,12 +131,12 @@
   },
   "active": "33d214aa26bf24f5",
   "lastOpenFiles": [
+    "lectures/2 - digital logic basics/2.2 - digital representation.md",
+    "assignments/h1/hw_01.pdf",
     "lectures/1 - digital logic.md",
     "assignments/h1/task 1 - digital logic.md",
-    "assignments/h1/hw_01.pdf",
     "assignments/h1/task 2 - data representation.md",
     "assignments/h1/task 4 - floating point representation.md",
-    "lectures/2 - digital logic basics/2.2 - digital representation.md",
     "lectures/2 - digital logic basics/2.1 - data and programs.md",
     "lectures/2 - digital logic basics/2.3 - floating point representation.md",
     "imgs/Pasted image 20220917184217.png",

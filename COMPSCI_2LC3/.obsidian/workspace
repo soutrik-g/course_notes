@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d97a24b30d2a08a3",
+        "id": "d83570da22a8c21c",
         "type": "split",
-        "dimension": 48.143053645116915,
+        "dimension": 49.10591471801926,
         "children": [
           {
-            "id": "de996a068915c174",
+            "id": "492b1494a326dd40",
             "type": "leaf",
-            "dimension": 52.77777777777778,
             "state": {
               "type": "markdown",
               "state": {
@@ -24,7 +23,6 @@
           {
             "id": "82157d23d54f050f",
             "type": "leaf",
-            "dimension": 47.22222222222222,
             "state": {
               "type": "markdown",
               "state": {
@@ -40,7 +38,7 @@
       {
         "id": "a8a9fde7e15fa2e0",
         "type": "split",
-        "dimension": 51.856946354883085,
+        "dimension": 50.894085281980736,
         "children": [
           {
             "id": "88531fcb5ad5aaa8",
@@ -179,7 +177,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de996a068915c174",
+  "active": "492b1494a326dd40",
   "lastOpenFiles": [
     "lectures/3 - propositional calculus.md",
     "assignments/a1.md",
