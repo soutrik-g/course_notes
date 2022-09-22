@@ -1,4 +1,3 @@
-
 > [!NOTE] Random Variables
 > A *random variable* is a function from a sample space to $\mathbb R$.
 > $$X: S \to \mathbb R$$
@@ -32,7 +31,6 @@ $$\begin{align*}
 > [!warning] Note
 > Writing out all possible probabilities is not usually practical. We use a function instead!
 
-
 > [!NOTE] Probability Mass Function
 > Let $X: S \to \mathbb R$ is DRV with $range(X) = \{x_1, x_2, \dots\}$. Then the *probability mass function* of $X$ is the function 
 > $f_X : \mathbb R \to [0, 1]$ such that:
@@ -57,7 +55,7 @@ Another way of describing a prob. distrib. is to consider a *cumulative distribu
 > $$\begin{align*}
 > 	F_X(x) &= P(X \le x)
 > 	\\&= P(\{x_i \in X: x_i \le x\} \\
-> 	&= \sum_{x_i \le x} f_x(x_i)
+> 	&= \sum_{x_i \le x} f_X(x_i)
 > \end{align*}$$
 > ($range(X) = \{x_1, x_2, \dots\}$)
 > The cdf of $X$ always satisfies the following:

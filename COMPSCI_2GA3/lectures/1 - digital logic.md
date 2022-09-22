@@ -103,8 +103,7 @@ Thus Output is 0
 | 1 | 0 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 1 | 1 | 0 | 1 |
 
-- 
-  The table shows that $c_0, c_{01}$ never overlap, so we can safely OR them to get the final $c_{out}$.
+- The table shows that $c_0, c_{01}$ never overlap, so we can safely OR them to get the final $c_{out}$.
 
 #### n-bit adder
 ![[Pasted image 20220914104328.png]]

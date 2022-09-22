@@ -4,30 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "3d056580fbffae31",
+        "id": "984b610e312532ec",
+        "type": "split",
+        "children": [
+          {
+            "id": "3d056580fbffae31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercises/e3.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94765681d55092f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "17fad19cc700696f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "lectures/7 - Discrete Random Variables.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
-        },
-        "group": "ee24e92386bb384c"
-      },
-      {
-        "id": "1d67081798a34d6d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "lectures/7 - Discrete Random Variables.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "ee24e92386bb384c"
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327bc96f3fd28aa1",
@@ -91,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/7 - Discrete Random Variables.md",
+                "file": "exercises/e3.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/7 - Discrete Random Variables.md",
+                "file": "exercises/e3.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/7 - Discrete Random Variables.md"
+                "file": "exercises/e3.2.md"
               }
             }
           }
@@ -144,14 +160,15 @@
   },
   "active": "3d056580fbffae31",
   "lastOpenFiles": [
+    "lectures/7 - Discrete Random Variables.md",
+    "exercises/e3.2.md",
+    "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf",
+    "assignments/a1.md",
     "lectures/5 - conditional probability.md",
-    "assignments/1.md",
     "imgs/Pasted image 20220915121133.png",
     "imgs/Pasted image 20220915121116.png",
     "lectures/4 - combinatorics.md",
     "lectures/3 - random probability.md",
-    "lectures/2 - counting and combinatorial analysis.md",
-    "lectures/1 - probability.md",
-    "pdfs/Douglas C. Montgomery, George C. Runger - Applied Statistics and Probability for Engineers-Wiley (2018).pdf"
+    "lectures/2 - counting and combinatorial analysis.md"
   ]
 }

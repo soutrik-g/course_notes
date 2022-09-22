@@ -11,10 +11,11 @@
           {
             "id": "492b1494a326dd40",
             "type": "leaf",
+            "dimension": 52.11111111111111,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assignments/a1.md",
+                "file": "lectures/4 - relaxing the proof style.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,6 +24,7 @@
           {
             "id": "82157d23d54f050f",
             "type": "leaf",
+            "dimension": 47.888888888888886,
             "state": {
               "type": "markdown",
               "state": {
@@ -43,6 +45,7 @@
           {
             "id": "88531fcb5ad5aaa8",
             "type": "leaf",
+            "dimension": 72,
             "state": {
               "type": "pdf",
               "state": {
@@ -53,6 +56,7 @@
           {
             "id": "3d056580fbffae31",
             "type": "leaf",
+            "dimension": 28.000000000000004,
             "state": {
               "type": "pdf",
               "state": {
@@ -126,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignments/a1.md",
+                "file": "lectures/4 - relaxing the proof style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assignments/a1.md",
+                "file": "lectures/4 - relaxing the proof style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assignments/a1.md"
+                "file": "lectures/4 - relaxing the proof style.md"
               }
             }
           }
@@ -179,15 +183,15 @@
   },
   "active": "492b1494a326dd40",
   "lastOpenFiles": [
-    "lectures/3 - propositional calculus.md",
+    "lectures/5 - applications of propositional calculus.md",
+    "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
     "assignments/a1.md",
-    "imgs/Pasted image 20220920180534.png",
-    "lectures/2 - boolean expressions.md",
-    "pdfs/LN2-2022.pdf",
-    "imgs/Pasted image 20220919181348.png",
     "pdfs/LN3-2022.pdf",
-    "pdfs/hakim_C1_answers.pdf",
-    "lectures/1 - textual subsitution, equality, and assignment.md",
-    "pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
+    "lectures/3 - propositional calculus.md",
+    "lectures/2 - boolean expressions.md",
+    "2 - booelan.md",
+    "imgs/Pasted image 20220920180534.png",
+    "pdfs/LN2-2022.pdf",
+    "imgs/Pasted image 20220919181348.png"
   ]
 }

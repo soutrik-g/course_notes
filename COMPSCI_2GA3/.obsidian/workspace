@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "33d214aa26bf24f5",
+        "id": "084fef13de38d75d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33d214aa26bf24f5",
+  "active": "126054067ec04be2",
   "lastOpenFiles": [
-    "lectures/2 - digital logic basics/2.2 - digital representation.md",
+    "assignments/h1/task 1 - digital logic.md",
+    "imgs/Pasted image 20220918010143.png",
     "assignments/h1/hw_01.pdf",
     "lectures/1 - digital logic.md",
-    "assignments/h1/task 1 - digital logic.md",
-    "assignments/h1/task 2 - data representation.md",
     "assignments/h1/task 4 - floating point representation.md",
-    "lectures/2 - digital logic basics/2.1 - data and programs.md",
     "lectures/2 - digital logic basics/2.3 - floating point representation.md",
-    "imgs/Pasted image 20220917184217.png",
-    "pdfs/textbook.pdf"
+    "lectures/2 - digital logic basics/2.1 - data and programs.md",
+    "assignments/h1/task 2 - data representation.md",
+    "lectures/2 - digital logic basics/2.2 - digital representation.md",
+    "imgs/Pasted image 20220917184217.png"
   ]
 }
