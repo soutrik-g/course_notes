@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md",
+            "file": "assignments/h1/task 4 - floating point representation.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md",
+                "file": "assignments/h1/task 4 - floating point representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md",
+                "file": "assignments/h1/task 4 - floating point representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/2 - digital logic basics/2.3 - floating point representation.md"
+                "file": "assignments/h1/task 4 - floating point representation.md"
               }
             }
           }
@@ -129,14 +129,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "126054067ec04be2",
+  "active": "084fef13de38d75d",
   "lastOpenFiles": [
+    "lectures/2 - digital logic basics/2.3 - floating point representation.md",
     "assignments/h1/task 1 - digital logic.md",
     "imgs/Pasted image 20220918010143.png",
     "assignments/h1/hw_01.pdf",
     "lectures/1 - digital logic.md",
     "assignments/h1/task 4 - floating point representation.md",
-    "lectures/2 - digital logic basics/2.3 - floating point representation.md",
     "lectures/2 - digital logic basics/2.1 - data and programs.md",
     "assignments/h1/task 2 - data representation.md",
     "lectures/2 - digital logic basics/2.2 - digital representation.md",
