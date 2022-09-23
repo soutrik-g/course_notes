@@ -36,9 +36,8 @@ $$\begin{align*}
 	&= \frac 1 6 + \frac 1 6 + \frac 1 6 = \frac 1 2
 \end{align*}$$
 
-
 > [!NOTE] Remark
-> We will say that $E_1$ and $E_2$ are ***mutually exclusive*** $iff$ $E_1 \cap E_2 \ne \emptyset$ 
+> We will say that $E_1$ and $E_2$ are ***mutually exclusive*** $iff$ $E_1 \cap E_2 = \emptyset$ 
 
 > [!NOTE] Prop
 > Let $E$ be an event. $P(E^c) = 1 - P(E)$.
