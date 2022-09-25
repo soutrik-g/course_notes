@@ -33,6 +33,7 @@ $$\frac{P_1, \dots, P_k}{C}$$
 
 ### Inference Rule *Substitution*
 $$\frac{E}{E[v:=F]}$$
+
 ## Definition
 $$\{P\}\ S\ \{Q\}$$
 - if $P$ is true before $S$ is executed, and if the execution of $S$ terminates, then $Q$ is true afterwards
@@ -41,3 +42,4 @@ $$\{P\}\ S\ \{Q\}$$
 $$\{R[x:=E]\}\ x:=E\ \{R\}$$
 #### Example
 Consider $S: x:= x+1$ and $R: x>4$. Then, $E: x+1$ so $R[x:=E]: x+1>4$.
+

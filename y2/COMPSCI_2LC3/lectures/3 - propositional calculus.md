@@ -55,3 +55,17 @@ $$\begin{align*}
 ![[Pasted image 20220915175509.png]]
 ![[Pasted image 20220915175521.png]]
 ![[Pasted image 20220915175539.png]]
+
+# Implication
+![[Pasted image 20220924192126.png]]
+![[Pasted image 20220924192136.png]]
+![[Pasted image 20220924192158.png]]
+![[Pasted image 20220924192208.png]]
+![[Pasted image 20220924192217.png]]
+![[Pasted image 20220924192225.png]]
+![[Pasted image 20220924192234.png]]
+
+![[Pasted image 20220924192316.png]]
+![[Pasted image 20220924192255.png]]
+![[Pasted image 20220924192335.png]]
+

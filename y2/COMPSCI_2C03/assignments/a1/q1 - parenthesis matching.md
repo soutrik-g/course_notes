@@ -5,7 +5,7 @@
  1	procedure ParenthesisMatching (s):
  2		let opened_parenthesis be a stack
  3		
- 4		for i from 1 to s.length do
+ 4		for i from 1 to s.length do:
  5			if s[i] is an opened parenthesis then:
  6				push it to opened_parenthesis
  7			else if s[i] is a closed parenthesis 
