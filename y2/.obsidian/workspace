@@ -4,50 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "97bc90c2dab5f983",
-        "type": "split",
-        "children": [
-          {
-            "id": "f9d58b4d0b526b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bc24e90557d8d15",
-            "type": "split",
-            "children": [
-              {
-                "id": "ca47458f2ec7372a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "COMPSCI_2LC3/pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf"
-                  }
-                }
-              },
-              {
-                "id": "b78ed9482ae15677",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "COMPSCI_2LC3/pdfs/as1-2022.pdf"
-                  }
-                }
-              }
-            ],
-            "direction": "horizontal"
+        "id": "5f380c08c5cec1a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "vertical"
+        }
+      },
+      {
+        "id": "28716bcc16aafe02",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "COMPSCI_2GA3/pdfs/textbook.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -112,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md",
+                "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md",
+                "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md"
+                "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md"
               }
             }
           }
@@ -163,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9d58b4d0b526b4f",
+  "active": "5f380c08c5cec1a8",
   "lastOpenFiles": [
-    "COMPSCI_2GA3/lectures/2 - digital logic basics/2.2 - digital representation.md",
-    "COMPSCI_2LC3/lectures/1 - textual subsitution, equality, and assignment.md",
-    "COMPSCI_2LC3/lectures/2 - boolean expressions.md",
-    "STATS_3Y03/lectures/3 - random probability.md",
-    "COMPSCI_2LC3/lectures/3 - propositional calculus.md",
-    "COMPSCI_2LC3/lectures/4 - relaxing the proof style.md",
-    "COMPSCI_2LC3/pdfs/as1-2022.pdf",
-    "COMPSCI_2LC3/pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
-    "Untitled.md",
-    "COMPSCI_2LC3/assignments/a1.md"
+    "COMPSCI_2GA3/pdfs/textbook.pdf",
+    "imgs/Pasted image 20220926113209.png",
+    "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
+    "imgs/Pasted image 20220926110959.png",
+    "imgs/Pasted image 20220926105952.png",
+    "COMPSCI_2GA3/lectures/3 - processors/4 - pipelined architectures.md",
+    "COMPSCI_2GA3/lectures/3 - processors/3 - instruction set architecture.md",
+    "imgs/Pasted image 20220926110308.png",
+    "COMPSCI_2GA3/lectures/3 - processors/1 - computer architectures.md",
+    "imgs/Pasted image 20220926105920.png"
   ]
 }

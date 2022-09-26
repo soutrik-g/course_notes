@@ -66,6 +66,14 @@ $$\begin{align*}
 ![[Pasted image 20220924192234.png]]
 
 ![[Pasted image 20220924192316.png]]
+![[Pasted image 20220926003044.png]]
+Different from *Inference rule Leibniz*, which describes that all $X=Y$ must be valid.
+
 ![[Pasted image 20220924192255.png]]
 ![[Pasted image 20220924192335.png]]
 
+```ad-example
+title: Proof
+
+![[Pasted image 20220926002025.png]]
+```
