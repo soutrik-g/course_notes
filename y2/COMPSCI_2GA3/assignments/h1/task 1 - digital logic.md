@@ -13,13 +13,13 @@ The decoder chip is an integrated circuit that receives a binary value $n$ and m
 # c)
 input|outputs|decimal
 -|-|-
-1|001|0
-1|001|0
-0|001|0
-0|001|0
-1|010|1
-0|010|1
-1|011|2
-0|011|2
-0|011|2
-1|100|3
+1|001|1
+1|001|1
+0|001|1
+0|001|1
+1|010|2
+0|010|2
+1|011|3
+0|011|3
+0|011|3
+1|100|4

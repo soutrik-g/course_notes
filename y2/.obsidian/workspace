@@ -4,24 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5f380c08c5cec1a8",
+        "id": "6530e416953e46cc",
+        "type": "split",
+        "children": [
+          {
+            "id": "5f380c08c5cec1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI_2LC3/assignments/a1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a1e42091b03d5ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI_2LC3/lectures/3 - propositional calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "80802a8a0bdd067f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
+            "file": "COMPSCI_2LC3/assignments/a1.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "28716bcc16aafe02",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "COMPSCI_2GA3/pdfs/textbook.pdf"
           }
         }
       }
@@ -88,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
+                "file": "COMPSCI_2LC3/assignments/a1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
+                "file": "COMPSCI_2LC3/assignments/a1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md"
+                "file": "COMPSCI_2LC3/assignments/a1.md"
               }
             }
           }
@@ -141,15 +162,15 @@
   },
   "active": "5f380c08c5cec1a8",
   "lastOpenFiles": [
-    "COMPSCI_2GA3/pdfs/textbook.pdf",
-    "imgs/Pasted image 20220926113209.png",
-    "COMPSCI_2GA3/lectures/3 - processors/2 - processor types and categories.md",
-    "imgs/Pasted image 20220926110959.png",
-    "imgs/Pasted image 20220926105952.png",
-    "COMPSCI_2GA3/lectures/3 - processors/4 - pipelined architectures.md",
-    "COMPSCI_2GA3/lectures/3 - processors/3 - instruction set architecture.md",
-    "imgs/Pasted image 20220926110308.png",
-    "COMPSCI_2GA3/lectures/3 - processors/1 - computer architectures.md",
-    "imgs/Pasted image 20220926105920.png"
+    "COMPSCI_2LC3/lectures/3 - propositional calculus.md",
+    "COMPSCI_2LC3/pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
+    "COMPSCI_2LC3/assignments/a1.md",
+    "STATS_3Y03/assignments/a2.md",
+    "STATS_3Y03/assignments/a1.md",
+    "imgs/Pasted image 20220927104339.png",
+    "COMPSCI_2GA3/lectures/2 - digital logic basics/2.3 - floating point representation.md",
+    "2lc3 a`.md",
+    "COMPSCI_2GA3/assignments/h1/task 4 - floating point representation.md",
+    "COMPSCI_2C03/notes/2 - analysis of algorithms.md"
   ]
 }

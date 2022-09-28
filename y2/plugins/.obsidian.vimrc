@@ -49,10 +49,6 @@ nmap <Down> <C-W>j
 
 imap jk <Esc>
 
-" Do not move my cursor when joining lines.
-nmap J mzJ`z
-nmap gJ mzgJ`z
-
 " insert semicolon in the end
 imap <A-;> <Esc>miA;<Esc>`ii
 

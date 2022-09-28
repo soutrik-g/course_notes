@@ -44,6 +44,9 @@ $$X = \text{\# of successes (out of $n$)}$$
 then say $X \textasciitilde Binom(n, p)$ and
 $$f_X(j) = \binom{n}{j} p^j (1 - p)^{n-j}$$
 where $j = 0, \dots, n$
+- $\binom n x$ ways of getting $x$ successes from $n$ trials.
+- $p^x$ is probability of succeses, $n$ times.
+- $p^{n-1}$ is the probability of failures, $n-1$ times.
 ```
 
 #### Simple Example
@@ -54,17 +57,13 @@ $$P(X = k) = \binom{100}{k}(\frac 1 2)^k(\frac 1 2)^{100 - k}$$
 Without computing, what is $E[X] = 50 = 100\frac 1 2$
 
 ```ad-note
-title: Expected Value
+title: Expected Value and Variance
 
 If $X \textasciitilde Binom(n, p)$ then,
-$$E[X] = np$$
-```
-
-```ad-note
-title: Variance
-
-If $X \textasciitilde Binom(n, p)$ then,
-$$Var(X) = np(1 - p)$$
+$$\begin{align*}
+	E[X] &= np \\
+	Var(X) &= np(1 - p)
+\end{align*}$$
 ```
 
 #### Example: test
