@@ -4,28 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6530e416953e46cc",
+        "id": "883ce004fb3adb5e",
         "type": "split",
         "children": [
           {
-            "id": "5f380c08c5cec1a8",
+            "id": "0af1de491dcccaa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md",
+                "file": "COMPSCI_2C03/assignments/a1/q3 - selection sort.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "35e32f29da821edf"
           },
           {
-            "id": "a1e42091b03d5ef8",
+            "id": "6a87f66848e2ad80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI_2LC3/lectures/3 - propositional calculus.md",
+                "file": "COMPSCI_2C03/assignments/a1/q1 - parenthesis matching.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +36,17 @@
         "direction": "horizontal"
       },
       {
-        "id": "80802a8a0bdd067f",
+        "id": "57577e019cf7eeec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMPSCI_2LC3/assignments/a1.md",
-            "mode": "source",
-            "source": false
+            "file": "COMPSCI_2C03/assignments/a1/q3 - selection sort.md",
+            "mode": "preview",
+            "source": true
           }
-        }
+        },
+        "group": "35e32f29da821edf"
       }
     ],
     "direction": "vertical"
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md",
+                "file": "COMPSCI_2C03/assignments/a1/q3 - selection sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md",
+                "file": "COMPSCI_2C03/assignments/a1/q3 - selection sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI_2LC3/assignments/a1.md"
+                "file": "COMPSCI_2C03/assignments/a1/q3 - selection sort.md"
               }
             }
           }
@@ -160,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f380c08c5cec1a8",
+  "active": "0af1de491dcccaa2",
   "lastOpenFiles": [
-    "COMPSCI_2LC3/lectures/3 - propositional calculus.md",
-    "COMPSCI_2LC3/pdfs/Texts_and_Monographs_in_Computer_Science_David_Gries_Fred_B._Schneider_-_A_Logical_Approach_to_Discrete_Math-Springer_1993.pdf",
+    "COMPSCI_2C03/assignments/a1/q1 - parenthesis matching.md",
+    "COMPSCI_2C03/assignments/a1/q3 - selection sort.md",
     "COMPSCI_2LC3/assignments/a1.md",
-    "STATS_3Y03/assignments/a2.md",
-    "STATS_3Y03/assignments/a1.md",
-    "imgs/Pasted image 20220927104339.png",
-    "COMPSCI_2GA3/lectures/2 - digital logic basics/2.3 - floating point representation.md",
-    "2lc3 a`.md",
+    "COMPSCI_2LC3/lectures/3 - propositional calculus.md",
     "COMPSCI_2GA3/assignments/h1/task 4 - floating point representation.md",
-    "COMPSCI_2C03/notes/2 - analysis of algorithms.md"
+    "COMPSCI_2GA3/lectures/3 - processors/3.3 - instruction set architecture.md",
+    "COMPSCI_2GA3/lectures/3 - processors/3.4 - pipelined architectures.md",
+    "COMPSCI_2GA3/lectures/3 - processors/3.2 - processor types and categories.md",
+    "COMPSCI_2GA3/lectures/3 - processors/3.1 - computer architectures.md",
+    "COMPSCI_2GA3/assignments/h1/task 1 - digital logic.md"
   ]
 }
