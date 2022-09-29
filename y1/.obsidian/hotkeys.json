@@ -1,0 +1,36 @@
+{
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}
