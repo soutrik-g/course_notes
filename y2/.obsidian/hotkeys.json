@@ -32,5 +32,32 @@
       ],
       "key": "I"
     }
+  ],
+  "quick-latex:addAlignBlock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "quick-latex:addCasesBlock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "quick-latex:addMatrixBlock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

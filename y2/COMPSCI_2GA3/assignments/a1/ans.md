@@ -1,3 +1,33 @@
+# 1) Digital Logic
+
+![[Pasted image 20220914160154.png]]
+
+## a)
+Let $a, b$ be 16 bit numbers, and $a[0:7], a[8:15], b[0:7], b[8:15]$ be the low and upper halves of their corresponding number. Then, $a[0:7], a[8:15], b[0:7], b[8:15]$ will be 8 bits. Thus,
+![[Pasted image 20220921212956.png]]
+will be the 16 bit adder, with the result being separated in two 8 bit registers $d[0:7], d[8:15]$.
+
+This circuit was inspired by the fact that an $n$-bit adder is made from $n$ 1 bit adders with their I/O carries chained sequentially. Since 2 8-bit adders were just enough to cover 16 bits, this circuit was created with no additional integrated circuits.
+
+## b)
+The decoder chip is an integrated circuit that receives a binary value $n$ and maps it to one of $2^n$ outputs. It is used in a circuit to perform many steps in sequence. If a decoder has 3 input pins, then there would be $2^3 = 9$ output pins.
+
+## c)
+input|outputs|decimal
+-|-|-
+1|001|1
+1|001|1
+0|001|1
+0|001|1
+1|010|2
+0|010|2
+1|011|3
+0|011|3
+0|011|3
+1|100|4
+
+# 2) Data Representation
+
 ![[Pasted image 20220914092539.png]]
 
 # a)
@@ -75,3 +105,47 @@ With two's complement, the maximum value that can be represented in 4 bits is $0
 
 ## Unsigned Integer
 With unsigned integers, the minimum value will always be 0, or $0000$. The maximum value will be when all the bits are set, or $1111$, or $15$.
+
+# 4) Floating Point Representation
+
+![[Pasted image 20220914134334.png]]
+
+## 4.1)
+### Smallest number
+The smallest number is $11101111$:
+$$\begin{align*}
+	1|110|1111
+\end{align*}$$
+$$\begin{align*}
+	s &: 1 = -1 \\
+	e &: 110_2 = 6_{10}; 6_{10}-2^{3-1}+1 = 3 \\
+	m &: 1.1111 \\
+	s \cdot m \cdot 2^e &= -1 \cdot 1.1111 \cdot 2^3 \\
+	&= -1111.1_2 \\
+	&= -15.5
+\end{align*}$$
+It is not $11111111$ since biased exponents values of 7 are reserved for $-\infty$, which is not a number.
+
+### Largest number
+The largest number then would be $01101111$, or $15.5$. The same logic for the largest number applies, just with the signed bit flipped.
+
+### Smallest increment
+The smallest step change between two neighbouring numbers is the difference between 00010000 and 00010001:
+$$\begin{align*} 0|001|0000 && 0|001|0001\end{align*}$$
+$$\begin{align*}
+	&0|001|0000 \\ \\
+	e &: 001_2 = 1_{10}; 1_{10}-2^{3-1}+1 = -2 \\
+	m &: 1.0000 \\
+	m \cdot 2^e &= 1.0000 \cdot 2^{-2} \\
+	&= 0.01 \\
+	&= 0.25
+	
+	&0|001|0001 \\ \\
+	e &: 001_2 = 1_{10}; 1_{10}-2^{3-1}+1 = -2 \\
+	m &: 1.0001 \\
+	m \cdot 2^e &= 1.0001 \cdot 2^{-2} \\
+	&= 0.010001 \\
+	&= 0.265625
+\end{align*}$$
+
+And thus $0.265625-0.25 = 0.015625$ is the smallest increment.
