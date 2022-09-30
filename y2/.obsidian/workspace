@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0af1de491dcccaa2",
+        "id": "a2cdce74f25ea48a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "COMPSCI_2GA3/lectures/3 - processors/3.3 - instruction set architecture.md",
-            "mode": "source",
-            "source": false
+            "file": "COMPSCI_2GA3/pdfs/textbook.pdf"
           }
         }
       }
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI_2GA3/lectures/3 - processors/3.3 - instruction set architecture.md",
+                "file": "COMPSCI_2GA3/pdfs/textbook.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI_2GA3/lectures/3 - processors/3.3 - instruction set architecture.md",
+                "file": "COMPSCI_2GA3/pdfs/textbook.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI_2GA3/lectures/3 - processors/3.3 - instruction set architecture.md"
+                "file": "COMPSCI_2GA3/pdfs/textbook.pdf"
               }
             }
           }
@@ -129,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0af1de491dcccaa2",
+  "active": "a2cdce74f25ea48a",
   "lastOpenFiles": [
-    "COMPSCI_2GA3/pdfs/textbook.pdf",
+    "COMPSCI_2GA3/lectures/3 - processors/3.5 - pipelined architectures.md",
+    "COMPSCI_2GA3/lectures/3 - processors/3.4 - registers.md",
     "COMPSCI_2GA3/lectures/3 - processors/3.3 - instruction set architecture.md",
+    "COMPSCI_2GA3/pdfs/textbook.pdf",
     "COMPSCI_2GA3/lectures/3 - processors/3.2 - processor types and categories.md",
     "COMPSCI_2LC3/assignments/a1.md",
     "STATS_3Y03/assignments/a2.md",
     "COMPSCI_2GA3/assignments/h1/task 2 - data representation.md",
     "STATS_3Y03/lectures/12 - Poisson Distribution.md",
-    "STATS_3Y03/lectures/11 - Hypergeometric Distribution.md",
-    "STATS_3Y03/lectures/10 - Geometric Distribution.md",
-    "COMPSCI_2GA3/lectures/3 - processors/3.1 - computer architectures.md"
+    "STATS_3Y03/lectures/11 - Hypergeometric Distribution.md"
   ]
 }
